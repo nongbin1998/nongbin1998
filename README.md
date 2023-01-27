@@ -1,6 +1,6 @@
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nongbin&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nongbin&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nongbin1998&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nongbin1998&theme=radical">
 </p>
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
